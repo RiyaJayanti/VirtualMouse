@@ -21,9 +21,10 @@ The application demonstrates human-computer interaction concepts by enabling ges
 
 ## Installation & Setup
 
-### 1. Clone the repository
-```
-git clone https://github.com/YOUR_USERNAME/VirtualMouse.git
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/RiyaJayanti/VirtualMouse.git
 ```
 
 ### 2. Navigate to project folder
